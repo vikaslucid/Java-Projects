@@ -1,0 +1,13 @@
+=== All Students Result Summary ===
+Roll Number: 101
+Name: vikas
+Marks: 88 77 99 
+Percentage: 88.0
+Grade: B
+--------------------------
+Roll Number: 102
+Name: anjali
+Marks: 98 99 97 
+Percentage: 98.0
+Grade: A
+--------------------------
